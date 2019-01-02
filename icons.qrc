@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>server-normal1-selected.png</file>
+
+    </qresource>
+</RCC>
